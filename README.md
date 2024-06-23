@@ -11,7 +11,7 @@ A collection of icon theme packs for Windhawk's Resource Redirect mod.
 ## Introduction
 
 This is a collection of commonly requested open source and community contributed icon theme packs which are intended 
-to work with Windhawk's [Resource Redirect](https://windhawk.net/mods/icon-resource-redirect) mod.
+to work with Windhawk's **[Resource Redirect](https://windhawk.net/mods/icon-resource-redirect)** mod.
 
 > [!TIP]
 > Resource Redirect mod works also with other types of resources listed [here](https://windhawk.net/mods/icon-resource-redirect).
@@ -19,7 +19,7 @@ to work with Windhawk's [Resource Redirect](https://windhawk.net/mods/icon-resou
 ### Installation
 If you're not familiar with Windhawk, here are the steps for installing the mod:
 
-* Download Windhawk from [windhawk.net](https://windhawk.net/) and install it.
+* Download Windhawk from **[windhawk.net](https://windhawk.net/)** and install it.
 * Go to "Mods" in the upper right menu.
 * Find and install the "Resource Redirect" mod.
 
@@ -35,11 +35,13 @@ If you're not familiar with Windhawk, here are the steps for installing the mod:
 > [!NOTE]  
 > After applying the theme, you may not see immidiate results due to windows icon caching.
 
-> [!IMPORTANT]  
+> [!CAUTION]
 > Don't move the theme files or change their filenames unless you know how the theme redirection works!
 
 ### Issues
 If you are experiencing issues with this mod, please [open an issue](https://github.com/ramensoftware/resource-redirect-icon-themes/issues).
+> [!IMPORTANT]  
+> Mod doesn't share any responsibility if you potentially find missing icons in the theme pack.
 
 ### Contributing
 
@@ -47,7 +49,7 @@ If you have a theme pack that you would
 like to share, please submit a [pull request](https://github.com/ramensoftware/resource-redirect-icon-themes/pulls).
 
 ## Credits
-Many of the icon packs are shared from [7tsp Icon Themes](https://github.com/niivu/7tsp-Icon-themes) thanks to the work of its author [Niivu](https://github.com/niivu). \
+Many of the icon packs are shared from **[7tsp Icon Themes](https://github.com/niivu/7tsp-Icon-themes)** thanks to the work of its author **[Niivu](https://github.com/niivu)**. \
 If you like his icon packs please follow him and support his [work](https://www.deviantart.com/niivu)!
 
 ## Themes
@@ -55,6 +57,9 @@ If you like his icon packs please follow him and support his [work](https://www.
 | ---- |
 | [All White Icons](https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20All%20White%20Icons.zip) |
 | [BANAANA OneUI](https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20BANAANA%20OneUI.zip) |
+
+> [!TIP]
+> You can combine both theme packs and other single resource files in the mod settings .
 
 > [!NOTE]  
 > This part is under development.

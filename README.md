@@ -6,6 +6,7 @@ A collection of icon theme packs for Windhawk's Resource Redirect mod.
 
 * [Introduction](#introduction)
 * [Themes](#themes)
+* [Credits](#credits)
 
 ## Introduction
 
@@ -37,10 +38,6 @@ If you're not familiar with Windhawk, here are the steps for installing the mod:
 > [!IMPORTANT]  
 > Don't move the theme files or change their filenames unless you know how the theme redirection works!
 
-## Themes
-> [!NOTE]  
-> This part is under development.
-
 ### Issues
 If you are experiencing issues with this mod, please [open an issue](https://github.com/ramensoftware/resource-redirect-icon-themes/issues).
 
@@ -48,6 +45,19 @@ If you are experiencing issues with this mod, please [open an issue](https://git
 
 If you have a theme pack that you would
 like to share, please submit a [pull request](https://github.com/ramensoftware/resource-redirect-icon-themes/pulls).
+
+## Credits
+Many of the icon packs are shared from [7tsp Icon Themes](https://github.com/niivu/7tsp-Icon-themes) thanks to the work of its author [Niivu](https://github.com/niivu). \
+If you like his icon packs please follow him and support his [work](https://www.deviantart.com/niivu)!
+
+## Themes
+| Link |
+| ---- |
+| [All White Icons](https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20All%20White%20Icons.zip) |
+| [BANAANA OneUI](https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20BANAANA%20OneUI.zip) |
+
+> [!NOTE]  
+> This part is under development.
 
 ## Work in progress
 > [!WARNING]  

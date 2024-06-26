@@ -47,13 +47,13 @@ like to share, please submit a [pull request](https://github.com/ramensoftware/r
 If you are experiencing issues with this mod, please [open an issue](https://github.com/ramensoftware/resource-redirect-icon-themes/issues).
 
 ## Credits
-Many of the icon packs are shared from **[7tsp Icon Themes](https://github.com/niivu/7tsp-Icon-themes)** thanks to the work of the author **[Niivu](https://github.com/niivu)**. \
+Many of the icon packs are shared from **[7tsp Icon Themes](https://github.com/niivu/7tsp-Icon-themes)** and their author **[Niivu](https://github.com/niivu)**. \
 If you like his icon packs please follow him and support his [work](https://www.deviantart.com/niivu).
 
 ## Themes
 
 > [!TIP]
-> You can use a theme pack also with other single resource files.
+> You can use a theme pack with other single resource files.
 
 
 <table>
@@ -462,7 +462,7 @@ If you like his icon packs please follow him and support his [work](https://www.
     <td>
       <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20FABA.zip">Faba</a>
     </td>
-    <td rowspan="2">
+    <td rowspan="4">
       <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/RR%20Previews/faba%20by%20niivu.png"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/b9fc937c-96c5-4179-99f0-e8c0ef34b64a"
                                                                                                                               width=580 heigth=500></a>
     </td>
@@ -470,6 +470,16 @@ If you like his icon packs please follow him and support his [work](https://www.
   <tr>
     <td>
       <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20FABA%20Symbolic.zip">Faba Symbolic</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20SLATE.zip">Slate</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20SLATE%20Symbolic.zip">Slate Symbolic</a>
     </td>
   </tr>
   <tr>
@@ -765,6 +775,331 @@ If you like his icon packs please follow him and support his [work](https://www.
     <td>
       <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/RR%20Previews/One%20UI4.png"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/5f67126b-60e9-445f-a5f6-42294340cd08"
                                                                                                                               width=580 heigth=500></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20OS%20X%20Minimalism.zip">OS X Minimalism</a>
+    </td>
+    <td rowspan=2>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/RR%20Previews/os%20x%20minimalism%20by%20niivu.png"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/e0eaebab-db1d-493d-be62-ec162532cab1"
+                                                                                                                              width=580 heigth=500></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20OS%20X%20Minimalism%20Symbolic.zip">OS X Minimalism Symbolic</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20Paper.zip">Paper</a>
+    </td>
+    <td>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/RR%20Previews/Paper.png"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/67c9f6d6-f196-4ce3-8b3c-59c5b6ce9663"
+                                                                                                                              width=580 heigth=500></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20Papirus%20Black.zip">Papirus Black</a>
+    </td>
+    <td rowspan=16>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/RR%20Previews/Papirus%20by%20niivu.png"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/a454e792-3336-49ae-91c9-c709f69ef810"
+                                                                                                                              width=580 heigth=500></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20Papirus%20Blue%20Grey.zip">Papirus BlueGrey</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20Papirus%20Blue.zip">Papirus Blue</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20Papirus%20Brown.zip">Papirus Brown</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20Papirus%20Deep%20Orange.zip">Papirus Deep Orange</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20Papirus%20Dracula.zip">Papirus Dracula</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20Papirus%20Grey.zip">Papirus Grey</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20Papirus%20Magenta.zip">Papirus Magenta</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20Papirus%20Pink.zip">Papirus Pink</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20Papirus%20Red.zip">Papirus Red</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20Papirus%20Solarized.zip">Papirus Solarized</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20Papirus%20Teal.zip">Papirus Teal</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20Papirus%20Violet.zip">Papirus Violet</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20Tokyo%20Night%20blank.zip">Tokyo Night</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20Tokyo%20Night%20Papirus.zip">Tokyo Night Papirus</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20Tokyo%20Night%20SE%20Papirus.zip">Tokyo Night SE Papirus</a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20pink%20folders.zip">Pink Folders</a>
+    </td>
+    <td align=center>
+      <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/ed76c9a2-1572-40e1-8fcf-e2d2d8191d6a"
+                                                                                                                                          width=280 height=150></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20post.zip">Post</a>
+    </td>
+    <td align=center>
+      <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/ed76c9a2-1572-40e1-8fcf-e2d2d8191d6a"
+                                                                                                                                          width=280 height=150></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20Pure%20for%20dark%20or%20dark%20side%20panel%20themes.zip">Pure Dark</a>
+    </td>
+    <td rowspan=2>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/RR%20Previews/Pure.png"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/dce8cc97-1a63-48c9-bfdb-5eabc9266d81"
+                                                                                                                              width=580 heigth=500></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20Pure%20for%20light%20themes.zip">Pure Light</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20Quixotic-SE%20Day%20AIO.zip">Quixotic Day</a>
+    </td>
+    <td rowspan=3>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/RR%20Previews/Quixotic.png"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/af9e1725-8ecf-4f16-ab5e-6c532680a010"
+                                                                                                                              width=580 heigth=500></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20Quixotic-SE%20Dark%20AIO.zip">Quixotic Dark</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20Quixotic-SE%20Night%20AIO.zip">Quixotic Night</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20Rose%20Pine.zip">Rose Pine</a>
+    </td>
+    <td align=center>
+      <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/ed76c9a2-1572-40e1-8fcf-e2d2d8191d6a"
+                                                                                                                                          width=280 height=150></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20solarized%20Day%20AIO.zip">Solarized Day AIO</a>
+    </td>
+    <td rowspan=2 align=center>
+      <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/ed76c9a2-1572-40e1-8fcf-e2d2d8191d6a"
+                                                                                                                                          width=280 height=150></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20solarized%20Night%20AIO.zip">Solarized Night AIO</a>
+    </td>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20Solus.zip">Solus</a>
+    </td>
+    <td>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/RR%20Previews/solus%20by%20niivu.png"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/fa94439a-4e9d-47aa-9cf8-4d9001e4a174"
+                                                                                                                              width=580 heigth=500></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20Somatic%20Rebirth.zip">Somatic Rebirth</a>
+    </td>
+    <td align=center>
+      <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/ed76c9a2-1572-40e1-8fcf-e2d2d8191d6a"
+                                                                                                                                          width=280 height=150></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20space-shrooms-blue.zip">Spaceshrooms Blue</a>
+    </td>
+    <td rowspan=3>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/RR%20Previews/space%20shrooms%20by%20niivu.png"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/9971aed9-21fa-4132-8deb-ad7ff43be9be"
+                                                                                                                              width=580 heigth=500></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20space-shrooms-green.zip">Spaceshrooms Green</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20space-shrooms-yellow.zip">Spaceshrooms Yellow</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20Super%20Remix%20Blue.zip">Super Remix Blue</a>
+    </td>
+    <td rowspan=3>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/RR%20Previews/Super%20REMIX%20by%20niivu.png"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/0f43182c-3085-4ec0-a803-3a28075c858b"
+                                                                                                                              width=580 heigth=500></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20Super%20Remix%20Green.zip">Super Remix Green</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20Super%20Remix%20Slate.zip">Super Remix Slate</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20Sweet%20Awesomeness.zip">Sweet Awesomeness</a>
+    </td>
+    <td rowspan=6>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/RR%20Previews/sweetness%20by%20niivu.png"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/bd20b4d7-81e1-4e34-a13f-a2422dd0d1d6"
+                                                                                                                              width=580 heigth=500></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20Sweetness%20Blue%20folders.zip">Sweetness Blue</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20Sweetness%20Neutral.zip">Sweetness Neutral</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20Sweetness%20Original.zip">Sweetness Original</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20Sweetness%20Pink%20folders.zip">Sweetness Pink</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20Sweetness%20Purple%20folders.zip">Sweetness Purple</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20Sweet-Rainbow.zip">Sweet Rainbow</a>
+    </td>
+    <td>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/RR%20Previews/Sweet%20Paranoia%20by%20niivu.png"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/1ef46140-77a7-436f-9296-7774c6cad4a7"
+                                                                                                                              width=580 heigth=500></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20Uos%20Icon%20pack.zip">UOS</a>
+    </td>
+    <td align=center>
+      <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/ed76c9a2-1572-40e1-8fcf-e2d2d8191d6a"
+                                                                                                                                          width=280 height=150></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20Windows%2011%20New%20(default).zip">Windows 11 New (default)</a>
+    </td>
+    <td rowspan=6 align=center>
+      <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/ed76c9a2-1572-40e1-8fcf-e2d2d8191d6a"
+                                                                                                                                          width=280 height=150></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20Windows%2011%20New%20Folders%20Blue.zip">Windows 11 New Folders Blue</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20Windows%2011%20New%20Folders%20Green.zip">Windows 11 New Folders Green</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20Windows%2011%20New%20Folders%20Purple.zip">Windows 11 New Folders Purple</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20Windows%2011%20New%20Folders%20Slate.zip">Windows 11 New Folders Slate</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20Windows%2011%20New%20Folders%20Yellow.zip">Windows 11 New Folders Yellow</a>
     </td>
   </tr>
 </table>

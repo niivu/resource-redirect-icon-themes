@@ -5,15 +5,15 @@ A collection of icon theme packs for Windhawk's Resource Redirect mod.
 ## Table of contents
 
 * [Introduction](#introduction)
-* [Themes](#themes)
 * [Credits](#credits)
+* [Themes](#themes)
 
 ## Introduction
 
 This is a collection of commonly requested open source and community contributed icon theme packs which are intended 
 to work with Windhawk's **[Resource Redirect](https://windhawk.net/mods/icon-resource-redirect)** mod.
 
-> [!TIP]
+> [!NOTE]
 > Resource Redirect mod works also with other types of resources listed [here](https://windhawk.net/mods/icon-resource-redirect).
 
 ### Installation
@@ -32,6 +32,9 @@ If you're not familiar with Windhawk, here are the steps for installing the mod:
 * Go to mod's settings tab.
 * Paste the copied path to the theme folder empty box and remove the path quote marks.
 * Click Save.
+> [!TIP]
+> For a cleaner look use the [Folder Thumbnail Remover](https://github.com/niivu/7tsp-Icon-themes/files/8693004/Folder.Thumbnail.Remover.zip) registry hack..
+
 > [!NOTE]  
 > After applying the theme, you may not see immidiate results due to Windows icon caching.
 
@@ -67,16 +70,16 @@ If you like his icon packs please follow him and support his [work](https://www.
     </td>
      <td align="center">
        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/ed76c9a2-1572-40e1-8fcf-e2d2d8191d6a"
-                                                                                                                                          width=280 height=150></a>
+                                                                                                                                          width=280></a>
      </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20antu%20alt.zip">Antu alt</a>
     </td>
-    <td rowspan="4">
+    <td rowspan="4" align=center>
       <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/RR%20Previews/Antu-Kuyen%20Preview%20NIIVU.png"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/f1288261-cbdf-4547-9b99-d5538c8ee75c"
-                                                                                                                                          width=580 height=350></a>
+                                                                                                                                          width=580></a>
     </td>
   </tr>
   <tr>
@@ -128,7 +131,7 @@ If you like his icon packs please follow him and support his [work](https://www.
     </td>
     <td align="center">
        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/ed76c9a2-1572-40e1-8fcf-e2d2d8191d6a"
-                                                                                                                                          width=280 height=150></a>
+                                                                                                                                          width=280></a>
      </td>
   </tr>
   <tr>
@@ -137,7 +140,7 @@ If you like his icon packs please follow him and support his [work](https://www.
     </td>
     <td align="center" rowspan="2">
        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/ed76c9a2-1572-40e1-8fcf-e2d2d8191d6a"
-                                                                                                                                          width=280 height=150></a>
+                                                                                                                                          width=280></a>
      </td>
   </tr>
   <tr>
@@ -165,7 +168,7 @@ If you like his icon packs please follow him and support his [work](https://www.
     </td>
     <td align="center">
        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/ed76c9a2-1572-40e1-8fcf-e2d2d8191d6a"
-                                                                                                                                          width=280 height=150></a>
+                                                                                                                                          width=280></a>
      </td>
   </tr>
   <tr>
@@ -183,7 +186,7 @@ If you like his icon packs please follow him and support his [work](https://www.
     </td>
     <td align="center">
        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/ed76c9a2-1572-40e1-8fcf-e2d2d8191d6a"
-                                                                                                                                          width=280 height=150></a>
+                                                                                                                                          width=280></a>
      </td>
   </tr>
   <tr>
@@ -226,7 +229,7 @@ If you like his icon packs please follow him and support his [work](https://www.
     </td>
     <td align="center" rowspan="2">
        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/ed76c9a2-1572-40e1-8fcf-e2d2d8191d6a"
-                                                                                                                                          width=280 height=150></a>
+                                                                                                                                          width=280></a>
      </td>
   </tr>
   <tr>
@@ -360,7 +363,7 @@ If you like his icon packs please follow him and support his [work](https://www.
       <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/RR%20Deepo%20Icon%20pack.zip">Deepo</a>
     <td align="center">
        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/ed76c9a2-1572-40e1-8fcf-e2d2d8191d6a"
-                                                                                                                                          width=280 height=150></a>
+                                                                                                                                          width=280></a>
      </td>
   <tr>
     <td>
@@ -432,7 +435,7 @@ If you like his icon packs please follow him and support his [work](https://www.
     </td>
     <td align="center">
        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/ed76c9a2-1572-40e1-8fcf-e2d2d8191d6a"
-                                                                                                                                          width=280 height=150></a>
+                                                                                                                                          width=280></a>
      </td>
   </tr>
   <tr>
@@ -441,7 +444,7 @@ If you like his icon packs please follow him and support his [work](https://www.
     </td>
     <td align=center rowspan="2">
       <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/ed76c9a2-1572-40e1-8fcf-e2d2d8191d6a"
-                                                                                                                                          width=280 height=150></a>
+                                                                                                                                          width=280></a>
     </td>
   </tr>
   <tr>
@@ -516,7 +519,7 @@ If you like his icon packs please follow him and support his [work](https://www.
     </td>
     <td align="center">
       <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/ed76c9a2-1572-40e1-8fcf-e2d2d8191d6a"
-                                                                                                                                          width=280 height=150></a>
+                                                                                                                                          width=280></a>
     </td>
   </tr>
   <tr>
@@ -544,7 +547,7 @@ If you like his icon packs please follow him and support his [work](https://www.
     </td>
     <td align=center>
       <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/ed76c9a2-1572-40e1-8fcf-e2d2d8191d6a"
-                                                                                                                                          width=280 height=150></a>
+                                                                                                                                          width=280></a>
     </td>
   </tr>
   <tr>
@@ -587,7 +590,7 @@ If you like his icon packs please follow him and support his [work](https://www.
     </td>
     <td align=center>
       <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/ed76c9a2-1572-40e1-8fcf-e2d2d8191d6a"
-                                                                                                                                          width=280 height=150></a>
+                                                                                                                                          width=280></a>
     </td>
   </tr>
   <tr>
@@ -891,7 +894,7 @@ If you like his icon packs please follow him and support his [work](https://www.
     </td>
     <td align=center>
       <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/ed76c9a2-1572-40e1-8fcf-e2d2d8191d6a"
-                                                                                                                                          width=280 height=150></a>
+                                                                                                                                          width=280></a>
     </td>
   </tr>
   <tr>
@@ -900,7 +903,7 @@ If you like his icon packs please follow him and support his [work](https://www.
     </td>
     <td align=center>
       <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/ed76c9a2-1572-40e1-8fcf-e2d2d8191d6a"
-                                                                                                                                          width=280 height=150></a>
+                                                                                                                                          width=280></a>
     </td>
   </tr>
   <tr>
@@ -942,7 +945,7 @@ If you like his icon packs please follow him and support his [work](https://www.
     </td>
     <td align=center>
       <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/ed76c9a2-1572-40e1-8fcf-e2d2d8191d6a"
-                                                                                                                                          width=280 height=150></a>
+                                                                                                                                          width=280></a>
     </td>
   </tr>
   <tr>
@@ -951,7 +954,7 @@ If you like his icon packs please follow him and support his [work](https://www.
     </td>
     <td rowspan=2 align=center>
       <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/ed76c9a2-1572-40e1-8fcf-e2d2d8191d6a"
-                                                                                                                                          width=280 height=150></a>
+                                                                                                                                          width=280></a>
     </td>
   </tr>
   <tr>
@@ -975,7 +978,7 @@ If you like his icon packs please follow him and support his [work](https://www.
     </td>
     <td align=center>
       <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/ed76c9a2-1572-40e1-8fcf-e2d2d8191d6a"
-                                                                                                                                          width=280 height=150></a>
+                                                                                                                                          width=280></a>
     </td>
   </tr>
   <tr>
@@ -1065,7 +1068,7 @@ If you like his icon packs please follow him and support his [work](https://www.
     </td>
     <td align=center>
       <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/ed76c9a2-1572-40e1-8fcf-e2d2d8191d6a"
-                                                                                                                                          width=280 height=150></a>
+                                                                                                                                          width=280></a>
     </td>
   </tr>
   <tr>
@@ -1074,7 +1077,7 @@ If you like his icon packs please follow him and support his [work](https://www.
     </td>
     <td rowspan=6 align=center>
       <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/ed76c9a2-1572-40e1-8fcf-e2d2d8191d6a"
-                                                                                                                                          width=280 height=150></a>
+                                                                                                                                          width=280></a>
     </td>
   </tr>
   <tr>

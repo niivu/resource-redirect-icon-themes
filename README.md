@@ -5,6 +5,7 @@ A collection of icon theme packs for Windhawk's Resource Redirect mod.
 ## Table of contents
 
 * [Introduction](#introduction)
+* [Installation](#installation)
 * [Credits](#credits)
 * [Themes](#themes)
 
@@ -32,6 +33,7 @@ If you're not familiar with Windhawk, here are the steps for installing the mod:
 * Go to mod's settings tab.
 * Paste the copied path to the theme folder empty box and remove the path quote marks.
 * Click Save.
+
 > [!TIP]
 > For a cleaner look use the [Folder Thumbnail Remover](https://github.com/niivu/7tsp-Icon-themes/files/8693004/Folder.Thumbnail.Remover.zip) registry hack..
 
@@ -40,6 +42,10 @@ If you're not familiar with Windhawk, here are the steps for installing the mod:
 
 > [!CAUTION]
 > Don't move the theme files or change their filenames unless you know how the theme redirection works!
+
+### Installation Demo
+[![screenshot-video](https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/1e73b7d7-3324-45d9-b7a5-c4c7e86de454)](https://www.youtube.com/watch?v=irzVmKHB83E)
+*Click on the image to view the demo video on YouTube.*
 
 ### Contributing
 

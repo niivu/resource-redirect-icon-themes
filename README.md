@@ -6,6 +6,7 @@ A collection of icon theme packs for Windhawk's Resource Redirect mod.
 
 * [Introduction](#introduction)
 * [Installation](#installation)
+* [Contributing](#contributing)
 * [Credits](#credits)
 * [Themes](#themes)
 
@@ -17,7 +18,7 @@ to work with Windhawk's **[Resource Redirect](https://windhawk.net/mods/icon-res
 > [!NOTE]
 > Resource Redirect mod works also with other types of resources listed [here](https://windhawk.net/mods/icon-resource-redirect).
 
-### Installation
+## Installation
 If you're not familiar with Windhawk, here are the steps for installing the mod:
 
 * Download Windhawk from **[windhawk.net](https://windhawk.net/)** and install it.
@@ -35,19 +36,19 @@ If you're not familiar with Windhawk, here are the steps for installing the mod:
 * Click Save.
 
 > [!TIP]
-> For a cleaner look use the [Folder Thumbnail Remover](https://github.com/niivu/7tsp-Icon-themes/files/8693004/Folder.Thumbnail.Remover.zip) registry hack..
+> For a cleaner look use the [Folder Thumbnail Remover](https://github.com/niivu/7tsp-Icon-themes/files/8693004/Folder.Thumbnail.Remover.zip) registry hack.
 
-> [!NOTE]  
-> After applying the theme, you may not see immidiate results due to Windows icon caching.
+> [!NOTE]
+> After applying the theme, you may not see immediate results due to Windows icon caching.
 
 > [!CAUTION]
 > Don't move the theme files or change their filenames unless you know how the theme redirection works!
 
 ### Installation Demo
-[![screenshot-video](https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/1e73b7d7-3324-45d9-b7a5-c4c7e86de454)](https://www.youtube.com/watch?v=irzVmKHB83E)
+[![Demo video](demo-video-thumbnail.png)](https://youtu.be/irzVmKHB83E)
 *Click on the image to view the demo video on YouTube.*
 
-### Contributing
+## Contributing
 
 If you have a theme pack that you would
 like to share, please submit a [pull request](https://github.com/ramensoftware/resource-redirect-icon-themes/pulls).
@@ -109,7 +110,7 @@ If you like his icon packs please follow him and support his [work](https://www.
     </td>
     <td rowspan="2">
       <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Previews/ARC%20by%20niivu.png"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/22533057-9864-4ed8-a399-e7870c73ae85"
-                                                                                                                              width=580 heigth=500></a>
+                                                                                                                              width=580></a>
     </td>
   </tr>
   <tr>
@@ -123,7 +124,7 @@ If you like his icon packs please follow him and support his [work](https://www.
     </td>
     <td rowspan="2">
       <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Previews/arc%20neutral%20by%20niivu.png"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/3407cde0-ca4c-4e73-afdc-3d74e4a6cd48"
-                                                                                                                              width=580 heigth=500></a>
+                                                                                                                              width=580></a>
     </td>
   </tr>
   <tr>
@@ -160,7 +161,7 @@ If you like his icon packs please follow him and support his [work](https://www.
     </td>
     <td rowspan="2">
       <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Previews/blanked%20by%20niivu.png"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/bd3f728e-31d1-4cd5-a6fe-0635b010a98e"
-                                                                                                                              width=580 heigth=500></a>
+                                                                                                                              width=580></a>
     </td>
   </tr>
   <tr>
@@ -183,7 +184,7 @@ If you like his icon packs please follow him and support his [work](https://www.
     </td>
     <td>
       <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Previews/bouquet%20taskbar%20by%20niivu.png"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/67f3b67d-ffb6-4d54-9f38-c81a099f2ac7"
-                                                                                                                              width=580 heigth=500></a>
+                                                                                                                              width=580></a>
     </td>
   </tr>
   <tr>
@@ -201,7 +202,7 @@ If you like his icon packs please follow him and support his [work](https://www.
     </td>
     <td rowspan="6">
       <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Previews/cakeOS%20by%20niivu.png"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/fd9e6931-c42e-4571-a274-de9b0e2a1b7f"
-                                                                                                                              width=580 heigth=500></a>
+                                                                                                                              width=580></a>
     </td>
   </tr>
   <tr>
@@ -249,7 +250,7 @@ If you like his icon packs please follow him and support his [work](https://www.
     </td>
     <td rowspan="15">
       <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Previews/Catppuccin.png"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/42b68905-7919-4f73-a5d2-a558928d6728"
-                                                                                                                              width=580 heigth=500></a>
+                                                                                                                              width=580></a>
     </td>
   </tr>
   <tr>
@@ -326,7 +327,7 @@ If you like his icon packs please follow him and support his [work](https://www.
     </td>
     <td rowspan="8">
       <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Previews/DEEPIN%20by%20niivu.png"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/f00f1b66-a03d-4f11-8b6f-5a5cba088808"
-                                                                                                                              width=580 heigth=500></a>
+                                                                                                                              width=580></a>
     </td>
   </tr>
   <tr>
@@ -377,7 +378,7 @@ If you like his icon packs please follow him and support his [work](https://www.
     </td>
     <td rowspan="12">
       <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Previews/DEEPIN%20by%20niivu.png"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/a77dc52e-5d80-40aa-83bd-7cc1fbfb8def"
-                                                                                                                              width=580 heigth=500></a>
+                                                                                                                              width=580></a>
     </td>
   </tr>
   <tr>
@@ -464,7 +465,7 @@ If you like his icon packs please follow him and support his [work](https://www.
     </td>
     <td>
       <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Previews/Eyecandy.png"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/04462c5c-6798-4f83-830f-e69371258e47"
-                                                                                                                              width=580 heigth=500></a>
+                                                                                                                              width=580></a>
     </td>
   </tr>
   <tr>
@@ -473,7 +474,7 @@ If you like his icon packs please follow him and support his [work](https://www.
     </td>
     <td rowspan="4">
       <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Previews/faba%20by%20niivu.png"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/b9fc937c-96c5-4179-99f0-e8c0ef34b64a"
-                                                                                                                              width=580 heigth=500></a>
+                                                                                                                              width=580></a>
     </td>
   </tr>
   <tr>
@@ -497,7 +498,7 @@ If you like his icon packs please follow him and support his [work](https://www.
     </td>
     <td>
       <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Previews/fetch%20by%20niivu.png"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/9d9c402e-51f2-47f0-b609-ddf17eeb0da5"
-                                                                                                                              width=580 heigth=500></a>
+                                                                                                                              width=580></a>
     </td>
   </tr>
   <tr>
@@ -506,7 +507,7 @@ If you like his icon packs please follow him and support his [work](https://www.
     </td>
     <td rowspan="3">
       <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Previews/Fluent%20Keys%20by%20niivu.png"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/391ba319-2750-4942-8f8c-3ba451276c7e"
-                                                                                                                              width=580 heigth=500></a>
+                                                                                                                              width=580></a>
     </td>
   </tr>
   <tr>
@@ -534,7 +535,7 @@ If you like his icon packs please follow him and support his [work](https://www.
     </td>
     <td rowspan=3>
       <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Previews/Gruvbox%20numix.png"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/723bb0f5-93b4-43db-b53b-0c2944c8cbb4"
-                                                                                                                              width=580 heigth=500></a>
+                                                                                                                              width=580></a>
     </td>
   </tr>
   <tr>
@@ -562,7 +563,7 @@ If you like his icon packs please follow him and support his [work](https://www.
     </td>
     <td rowspan=6>
       <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Previews/janguru%20by%20niivu.png"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/1070ea15-76f2-4d50-8cdc-b7d03014e4ac"
-                                                                                                                              width=580 heigth=500></a>
+                                                                                                                              width=580></a>
     </td>
   </tr>
   <tr>
@@ -605,7 +606,7 @@ If you like his icon packs please follow him and support his [work](https://www.
     </td>
     <td rowspan=2>
       <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Previews/Linuxfx%2011.png"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/c96c0b61-ae4a-4de7-9951-de345f84c191"
-                                                                                                                              width=580 heigth=500></a>
+                                                                                                                              width=580></a>
     </td>
   </tr>
   <tr>
@@ -619,7 +620,7 @@ If you like his icon packs please follow him and support his [work](https://www.
     </td>
     <td>
       <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Previews/LoL.png"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/d904b7ee-fd4c-444d-8705-07c1e0d1bf5f"
-                                                                                                                              width=580 heigth=500></a>
+                                                                                                                              width=580></a>
     </td>
   </tr>
   <tr>
@@ -628,7 +629,7 @@ If you like his icon packs please follow him and support his [work](https://www.
     </td>
     <td rowspan=2>
       <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Previews/Lumicons%20by%20niivu.png"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/d6c1ecfc-3964-4df6-8086-be15e72b3119"
-                                                                                                                              width=580 heigth=500></a>
+                                                                                                                              width=580></a>
     </td>
   </tr>
   <tr>
@@ -642,7 +643,7 @@ If you like his icon packs please follow him and support his [work](https://www.
     </td>
     <td>
       <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Previews/mac%20OSx.png"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/d7535134-eb51-4d26-89a5-3cebf8f99b17"
-                                                                                                                              width=580 heigth=500></a>
+                                                                                                                              width=580></a>
     </td>
   </tr>
   <tr>
@@ -651,7 +652,7 @@ If you like his icon packs please follow him and support his [work](https://www.
     </td>
     <td rowspan=5>
       <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Previews/macOS%20Regular.png"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/fc5c9269-fb06-44a1-9c05-9001e1438589"
-                                                                                                                              width=580 heigth=500></a>
+                                                                                                                              width=580></a>
     </td>
   </tr>
   <tr>
@@ -680,7 +681,7 @@ If you like his icon packs please follow him and support his [work](https://www.
     </td>
     <td rowspan=2>
       <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Previews/mac%20pac%20by%20niivu.png"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/e88d766f-9265-44de-ba14-90adbe4e6386"
-                                                                                                                              width=580 heigth=500></a>
+                                                                                                                              width=580></a>
     </td>
   </tr>
   <tr>
@@ -694,7 +695,7 @@ If you like his icon packs please follow him and support his [work](https://www.
     </td>
     <td>
       <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Previews/Mechanical.png"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/21cbc979-61a4-4fc6-b73d-1ab4edcee7b5"
-                                                                                                                              width=580 heigth=500></a>
+                                                                                                                              width=580></a>
     </td>
   </tr>
   <tr>
@@ -703,7 +704,7 @@ If you like his icon packs please follow him and support his [work](https://www.
     </td>
     <td>
       <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Previews/MINIUM2.png"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/d1a71025-3684-431d-bf22-3ac60fb17f8e"
-                                                                                                                              width=580 heigth=500></a>
+                                                                                                                              width=580></a>
     </td>
   </tr>
   <tr>
@@ -712,7 +713,7 @@ If you like his icon packs please follow him and support his [work](https://www.
     </td>
     <td rowspan=2>
       <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Previews/nord%20by%20niivu.png"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/dfd1caf3-8a62-44b8-bd73-d3575107db33"
-                                                                                                                              width=580 heigth=500></a>
+                                                                                                                              width=580></a>
     </td>
   </tr>
   <tr>
@@ -726,7 +727,7 @@ If you like his icon packs please follow him and support his [work](https://www.
     </td>
     <td rowspan=6>
       <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Previews/numix%20remix%20by%20niivu.png"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/8fa0a9fa-f9eb-41c0-952f-4b1ea2433769"
-                                                                                                                              width=580 heigth=500></a>
+                                                                                                                              width=580></a>
     </td>
   </tr>
   <tr>
@@ -760,7 +761,7 @@ If you like his icon packs please follow him and support his [work](https://www.
     </td>
     <td>
       <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Previews/nuxicons%20by%20niivu.png"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/5ca12e8b-ff6f-4237-9aa6-cd2432176238"
-                                                                                                                              width=580 heigth=500></a>
+                                                                                                                              width=580></a>
     </td>
   </tr>
   <tr>
@@ -769,7 +770,7 @@ If you like his icon packs please follow him and support his [work](https://www.
     </td>
     <td rowspan=2>
       <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Previews/One%20Dark%20Pro.png"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/d7b2b627-b439-4846-8709-71b5c9c09110"
-                                                                                                                              width=580 heigth=500></a>
+                                                                                                                              width=580></a>
     </td>
   </tr>
   <tr>
@@ -783,7 +784,7 @@ If you like his icon packs please follow him and support his [work](https://www.
     </td>
     <td>
       <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Previews/One%20UI4.png"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/5f67126b-60e9-445f-a5f6-42294340cd08"
-                                                                                                                              width=580 heigth=500></a>
+                                                                                                                              width=580></a>
     </td>
   </tr>
   <tr>
@@ -792,7 +793,7 @@ If you like his icon packs please follow him and support his [work](https://www.
     </td>
     <td rowspan=2>
       <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Previews/os%20x%20minimalism%20by%20niivu.png"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/e0eaebab-db1d-493d-be62-ec162532cab1"
-                                                                                                                              width=580 heigth=500></a>
+                                                                                                                              width=580></a>
     </td>
   </tr>
   <tr>
@@ -806,7 +807,7 @@ If you like his icon packs please follow him and support his [work](https://www.
     </td>
     <td>
       <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Previews/Paper.png"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/67c9f6d6-f196-4ce3-8b3c-59c5b6ce9663"
-                                                                                                                              width=580 heigth=500></a>
+                                                                                                                              width=580></a>
     </td>
   </tr>
   <tr>
@@ -815,7 +816,7 @@ If you like his icon packs please follow him and support his [work](https://www.
     </td>
     <td rowspan=16>
       <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Previews/Papirus%20by%20niivu.png"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/a454e792-3336-49ae-91c9-c709f69ef810"
-                                                                                                                              width=580 heigth=500></a>
+                                                                                                                              width=580></a>
     </td>
   </tr>
   <tr>
@@ -918,7 +919,7 @@ If you like his icon packs please follow him and support his [work](https://www.
     </td>
     <td rowspan=2>
       <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Previews/Pure.png"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/dce8cc97-1a63-48c9-bfdb-5eabc9266d81"
-                                                                                                                              width=580 heigth=500></a>
+                                                                                                                              width=580></a>
     </td>
   </tr>
   <tr>
@@ -932,7 +933,7 @@ If you like his icon packs please follow him and support his [work](https://www.
     </td>
     <td rowspan=3>
       <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Previews/Quixotic.png"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/af9e1725-8ecf-4f16-ab5e-6c532680a010"
-                                                                                                                              width=580 heigth=500></a>
+                                                                                                                              width=580></a>
     </td>
   </tr>
   <tr>
@@ -975,7 +976,7 @@ If you like his icon packs please follow him and support his [work](https://www.
     </td>
     <td>
       <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Previews/solus%20by%20niivu.png"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/fa94439a-4e9d-47aa-9cf8-4d9001e4a174"
-                                                                                                                              width=580 heigth=500></a>
+                                                                                                                              width=580></a>
     </td>
   </tr>
   <tr>
@@ -993,7 +994,7 @@ If you like his icon packs please follow him and support his [work](https://www.
     </td>
     <td rowspan=3>
       <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Previews/space%20shrooms%20by%20niivu.png"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/9971aed9-21fa-4132-8deb-ad7ff43be9be"
-                                                                                                                              width=580 heigth=500></a>
+                                                                                                                              width=580></a>
     </td>
   </tr>
   <tr>
@@ -1012,7 +1013,7 @@ If you like his icon packs please follow him and support his [work](https://www.
     </td>
     <td rowspan=3>
       <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Previews/Super%20REMIX%20by%20niivu.png"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/0f43182c-3085-4ec0-a803-3a28075c858b"
-                                                                                                                              width=580 heigth=500></a>
+                                                                                                                              width=580></a>
     </td>
   </tr>
   <tr>
@@ -1031,7 +1032,7 @@ If you like his icon packs please follow him and support his [work](https://www.
     </td>
     <td rowspan=6>
       <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Previews/sweetness%20by%20niivu.png"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/bd20b4d7-81e1-4e34-a13f-a2422dd0d1d6"
-                                                                                                                              width=580 heigth=500></a>
+                                                                                                                              width=580></a>
     </td>
   </tr>
   <tr>
@@ -1065,7 +1066,7 @@ If you like his icon packs please follow him and support his [work](https://www.
     </td>
     <td>
       <a href="https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Previews/Sweet%20Paranoia%20by%20niivu.png"><img src="https://github.com/ramensoftware/resource-redirect-icon-themes/assets/80290008/1ef46140-77a7-436f-9296-7774c6cad4a7"
-                                                                                                                              width=580 heigth=500></a>
+                                                                                                                              width=580></a>
     </td>
   </tr>
   <tr>
@@ -1112,13 +1113,3 @@ If you like his icon packs please follow him and support his [work](https://www.
     </td>
   </tr>
 </table>
-
-
-
-> [!NOTE]  
-> This part is under development.
-
-
-## Work in progress
-> [!WARNING]  
-> This document is a work in progress.

@@ -13,7 +13,7 @@ A collection of icon theme packs for Windhawk's Resource Redirect mod.
 ## Introduction
 
 This is a collection of commonly requested open source and community contributed icon theme packs which are intended 
-to work with Windhawk's **[Resource Redirect](https://windhawk.net/mods/icon-resource-redirect)** mod.
+to work with Windhawk's [Resource Redirect](https://windhawk.net/mods/icon-resource-redirect) mod.
 
 > [!NOTE]
 > Resource Redirect mod works also with other types of resources listed [here](https://windhawk.net/mods/icon-resource-redirect).
@@ -21,7 +21,7 @@ to work with Windhawk's **[Resource Redirect](https://windhawk.net/mods/icon-res
 ## Installation
 If you're not familiar with Windhawk, here are the steps for installing the mod:
 
-* Download Windhawk from **[windhawk.net](https://windhawk.net/)** and install it.
+* Download Windhawk from [windhawk.net](https://windhawk.net/) and install it.
 * Go to "Mods" in the upper right menu.
 * Find and install the "Resource Redirect" mod.
 
@@ -58,14 +58,13 @@ like to share, please submit a [pull request](https://github.com/ramensoftware/r
 If you are experiencing issues with this mod, please [open an issue](https://github.com/ramensoftware/resource-redirect-icon-themes/issues).
 
 ## Credits
-Many of the icon packs are shared from **[7tsp Icon Themes](https://github.com/niivu/7tsp-Icon-themes)** and their author **[Niivu](https://github.com/niivu)**. \
+Many of the icon packs are shared from [7tsp Icon Themes](https://github.com/niivu/7tsp-Icon-themes) and their author [Niivu](https://github.com/niivu). \
 If you like his icon packs please follow him and support his [work](https://www.deviantart.com/niivu).
 
 ## Themes
 
 > [!TIP]
 > You can use a theme pack with other single resource files.
-
 
 <table>
   <tr>

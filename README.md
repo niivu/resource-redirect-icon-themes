@@ -34,12 +34,13 @@ If you're not familiar with Windhawk, here are the steps for installing the mod:
 * Go to mod's settings tab.
 * Paste the copied path to the theme folder empty box and remove the path quote marks.
 * Click Save.
+* You might want to disable folder thumbnail previews and clear icon cache, see notes below.
 
 > [!TIP]
-> For a cleaner look use the [Folder Thumbnail Remover](https://github.com/niivu/7tsp-Icon-themes/files/8693004/Folder.Thumbnail.Remover.zip) registry hack.
+> For a cleaner look, use [the script to disable folder thumbnail previews](https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Scripts/Disable_folder_thumbnail_previews.bat).
 
 > [!NOTE]
-> After applying the theme, you may not see immediate results due to Windows icon caching.
+> After applying the theme, you may not see immediate results due to Windows icon caching. You can use [the script to clear icon cache](https://github.com/ramensoftware/resource-redirect-icon-themes/blob/main/Scripts/Clear_icon_cache.bat).
 
 > [!CAUTION]
 > Don't move the theme files or change their filenames unless you know how the theme redirection works!

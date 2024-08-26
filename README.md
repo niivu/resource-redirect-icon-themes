@@ -9,6 +9,7 @@ A collection of icon theme packs for Windhawk's Resource Redirect mod.
 * [Contributing](#contributing)
 * [Credits](#credits)
 * [Themes](#themes)
+* [Converting 7TSP Themes](#converting-7tsp-themes)
 
 ## Introduction
 
@@ -1114,7 +1115,7 @@ If you like his icon packs please follow him and support his [work](https://www.
   </tr>
 </table>
 
-### Converting 7TSP Themes
+## Converting 7TSP Themes
 
 Icon themes made for 7TSP use file types that Resource Redirect cannot read. Therefore, they have to be converted using a tool like [Resource Hacker](https://www.angusj.com/resourcehacker/).
 1. Download Resource Hacker if you have not already, you can use the portable version if you don't want to fully install.

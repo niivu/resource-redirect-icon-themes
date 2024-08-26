@@ -1113,3 +1113,22 @@ If you like his icon packs please follow him and support his [work](https://www.
     </td>
   </tr>
 </table>
+
+### Converting 7TSP Themes
+
+Icon themes made for 7TSP use file types that Resource Redirect cannot read. Therefore, they have to be converted using a tool like [Resource Hacker](https://www.angusj.com/resourcehacker/).
+1. Download Resource Hacker if you have not already, you can use the portable version if you don't want to fully install.
+2. Find the folder of your 7TSP theme with files ending in `.res`.
+   
+    ![image](https://github.com/user-attachments/assets/cd66aa5e-8023-4c65-8d7f-20fde7099df7)
+
+3. Pick a file you want to convert and either drag it into a running Resource Hacker window or open it from the `File` menu.
+4. Press the green `Save As` button in the top bar.
+
+    ![image](https://github.com/user-attachments/assets/20416412-572d-4ceb-bc11-da18b9fa3e3d)
+
+5. In the `Save As` box, remove the `.res` extension from the file and replace any other extensions with `.dll`.
+
+    ![image](https://github.com/user-attachments/assets/56d5c7cb-906d-41ce-9fed-7de3c2c0e732)
+
+6. The file should now be readable by Resource Redirect, you can now continue with the normal icon theme making steps!

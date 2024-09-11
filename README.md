@@ -59,9 +59,9 @@ like to share, please submit a [pull request](https://github.com/niivu/resource-
 If you are experiencing issues with this mod, please [open an issue](https://github.com/niivu/resource-redirect-icon-themes/issues).
 
 ## Credits
-- [@ramensoftware](https://github.com/ramensoftware/): Windhawk
-- [@niivu](https://github.com/niivu): The [7tsp Icon Themes Repository](https://github.com/niivu/7tsp-Icon-themes) holding most of the shared icon packs.
-<br />
+* [Ramen Software](https://ramensoftware.com/): [Windhawk](https://windhawk.net/) and [Resource Redirect](https://windhawk.net/mods/icon-resource-redirect).
+* [@niivu](https://github.com/niivu): This repository holding most of the shared icon packs.
+
 If you like my icon packs please follow and support [my work](https://www.deviantart.com/niivu).
 
 ## Themes

@@ -28,7 +28,7 @@ If you're not familiar with Windhawk, here are the steps for installing the mod:
 
 ### Theme Installation
 
-* Download your theme of preference through the [theme folder](https://github.com/niivu/resource-redirect-icon-themes/tree/main/Resource%20Redirect%20themes).
+* Download your theme of preference through the [theme folder](Resource%20Redirect%20themes).
 * Unzip and extract the theme folder in a directory of your system.
 * Copy the path of the theme folder (right click - copy as path) which contains the theme files.
 * Open Windhawk, go to the already installed "Resource Redirect" mod.
@@ -38,10 +38,10 @@ If you're not familiar with Windhawk, here are the steps for installing the mod:
 * You might want to disable folder thumbnail previews and clear icon cache, see notes below.
 
 > [!TIP]
-> For a cleaner look, use [the script to disable folder thumbnail previews](https://github.com/niivu/resource-redirect-icon-themes/blob/main/Scripts/Disable_folder_thumbnail_previews.bat).
+> For a cleaner look, use the script to [disable folder thumbnail previews](Scripts/Disable_folder_thumbnail_previews.bat).
 
 > [!NOTE]
-> After applying the theme, you may not see immediate results due to Windows icon caching. You can use [the script to clear icon cache](https://github.com/niivu/resource-redirect-icon-themes/blob/main/Scripts/Clear_icon_cache.bat).
+> After applying the theme, you may not see immediate results due to Windows icon caching. You can use the script to [clear icon cache](Scripts/Clear_icon_cache.bat).
 
 > [!CAUTION]
 > Don't move the theme files or change their filenames unless you know how the theme redirection works!

@@ -605,6 +605,15 @@ If you like my icon packs please follow and support [my work](https://www.devian
   </tr>
   <tr>
     <td>
+      <a href="https://github.com/niivu/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/Kripton%20Flatery.zip">Kripton Flatery</a>
+    </td>
+    <td>
+      <a href="https://github.com/niivu/resource-redirect-icon-themes/blob/main/Previews/Kripton%20Flatery.png"><img src="https://raw.githubusercontent.com/niivu/resource-redirect-icon-themes/refs/heads/main/Previews/Kripton%20Flatery.png"
+                                                                                                                              width=580></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://github.com/niivu/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/Linuxfx-11-AIO.zip">Linuxfx 11 AIO</a>
     </td>
     <td rowspan=2>

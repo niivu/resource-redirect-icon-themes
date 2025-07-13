@@ -24,14 +24,26 @@ If you're not familiar with Windhawk, here are the steps for installing the mod:
 
 * Download Windhawk from [windhawk.net](https://windhawk.net/) and install it.
 * Go to "Mods" in the upper right menu.
-* Find and install the "Resource Redirect" mod.
+* Find and install the Resource Redirect mod.
 
 ### Theme Selection
 
-After installing the "Resource Redirect" mod, you can select an icon theme from
+After installing the Resource Redirect mod, you can select an icon theme from
 the mod's settings. The icon theme will be downloaded and applied, and you'll be
 prompted to clear the icon cache. Without clearing the icon cache, some icons
 may not update immediately.
+
+> [!NOTE]
+> By default, icons of folders with thumbnail previews aren't replaced. There
+> are two possible solutions:
+> * Enable the "Redirect all loaded resources" option in the Resource Redirect
+>   mod settings.
+> * Disable folder thumbnails in the Windows Explorer settings:
+>   * Press Win+R to open the Run dialog.
+>   * Type `control folders` and press Enter.
+>   * In the Folder Options window, go to the "View" tab.
+>   * Check the "Always show icons, never thumbnails" option.
+>   * Click "OK".
 
 ### Manual Theme Installation
 
@@ -42,7 +54,7 @@ the mod's settings.
 * Download your theme of preference through the [theme folder](https://github.com/niivu/resource-redirect-icon-themes/tree/main/Resource%20Redirect%20themes).
 * Unzip and extract the theme folder in a directory of your system.
 * Copy the path of the theme folder (right click - copy as path) which contains the theme files.
-* Open Windhawk, go to the already installed "Resource Redirect" mod.
+* Open Windhawk, go to the already installed Resource Redirect mod.
 * Go to mod's settings tab.
 * Paste the copied path to the theme folder empty box and remove the path quote marks.
 * Click Save.
@@ -50,18 +62,6 @@ the mod's settings.
 
 > [!NOTE]
 > After applying the theme, you may not see immediate results due to Windows icon caching. You can use [the script to clear icon cache](https://github.com/niivu/resource-redirect-icon-themes/blob/main/Scripts/Clear_icon_cache.bat).
-
-> [!NOTE]
-> By default, icons of folders with thumbnail previews aren't replaced. There
-> are two possible solutions:
-> * Enable the "Redirect all loaded resources" option in the "Resource Redirect"
->   mod settings.
-> * Disable folder thumbnails in the Windows Explorer settings:
->   * Press Win+R to open the Run dialog.
->   * Type `control folders` and press Enter.
->   * In the Folder Options window, go to the "View" tab.
->   * Check the "Always show icons, never thumbnails" option.
->   * Click "OK".
 
 > [!CAUTION]
 > Don't move the theme files or change their filenames unless you know how the theme redirection works!

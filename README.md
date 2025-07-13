@@ -26,7 +26,18 @@ If you're not familiar with Windhawk, here are the steps for installing the mod:
 * Go to "Mods" in the upper right menu.
 * Find and install the "Resource Redirect" mod.
 
-### Theme Installation
+### Theme Selection
+
+After installing the "Resource Redirect" mod, you can select an icon theme from
+the mod's settings. The icon theme will be downloaded and applied, and you'll be
+prompted to clear the icon cache. Without clearing the icon cache, some icons
+may not update immediately.
+
+### Manual Theme Installation
+
+An icon theme can also be installed manually. This can be useful if you want to
+make changes to the theme or if you want to use a theme that is not available in
+the mod's settings.
 
 * Download your theme of preference through the [theme folder](https://github.com/niivu/resource-redirect-icon-themes/tree/main/Resource%20Redirect%20themes).
 * Unzip and extract the theme folder in a directory of your system.
@@ -35,13 +46,22 @@ If you're not familiar with Windhawk, here are the steps for installing the mod:
 * Go to mod's settings tab.
 * Paste the copied path to the theme folder empty box and remove the path quote marks.
 * Click Save.
-* You might want to disable folder thumbnail previews and clear icon cache, see notes below.
-
-> [!TIP]
-> For a cleaner look, use [the script to disable folder thumbnail previews](https://github.com/niivu/resource-redirect-icon-themes/blob/main/Scripts/Disable_folder_thumbnail_previews.bat).
+* You might want to clear icon cache, see note below.
 
 > [!NOTE]
 > After applying the theme, you may not see immediate results due to Windows icon caching. You can use [the script to clear icon cache](https://github.com/niivu/resource-redirect-icon-themes/blob/main/Scripts/Clear_icon_cache.bat).
+
+> [!NOTE]
+> By default, icons of folders with thumbnail previews aren't replaced. There
+> are two possible solutions:
+> * Enable the "Redirect all loaded resources" option in the "Resource Redirect"
+>   mod settings.
+> * Disable folder thumbnails in the Windows Explorer settings:
+>   * Press Win+R to open the Run dialog.
+>   * Type `control folders` and press Enter.
+>   * In the Folder Options window, go to the "View" tab.
+>   * Check the "Always show icons, never thumbnails" option.
+>   * Click "OK".
 
 > [!CAUTION]
 > Don't move the theme files or change their filenames unless you know how the theme redirection works!

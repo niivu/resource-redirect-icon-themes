@@ -1112,6 +1112,15 @@ If you like my icon packs please follow and support [my work](https://www.devian
   </tr>
   <tr>
     <td>
+      <a href="https://github.com/niivu/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/Windows%207.zip">Windows 7</a>
+    </td>
+    <td align=center>
+      <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="Images/no-preview.png"
+                                                                                                                                          width=280></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://github.com/niivu/resource-redirect-icon-themes/blob/main/Resource%20Redirect%20themes/Windows%2011%20New%20(default).zip">Windows 11 New (default)</a>
     </td>
     <td rowspan=6 align=center>
